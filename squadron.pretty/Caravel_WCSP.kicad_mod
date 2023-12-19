@@ -113,9 +113,9 @@
   (pad "F8" smd circle (at -1.25 1.25 270) (size 0.2 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a6e1e9c1-af3c-4130-aaee-ca708a21e800))
   (pad "F9" smd circle (at -1.25 1.75 270) (size 0.2 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7c77f58e-3b6a-4e94-96d8-42ffcd87e503))
   (pad "F10" smd circle (at -1.25 2.25 270) (size 0.2 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6c0ec964-6655-4777-a18d-5b693c03b7ee))
-  (model "/home/yatharth/squadron_project/squadron_hardware/3D Models/NX5P3090UKZ--3DModel-STEP-56544.STEP"
+  (model ":KICAD7_3DMODEL_DIR:Package_BGA.3dshapes/Analog_BGA-209_9.5x16mm_Layout11x19_P0.8mm_Ball0.5mm_Pad0.4mm.wrl"
     (offset (xyz 0 0 0))
-    (scale (xyz 2 1 2.8))
-    (rotate (xyz -90 0 0))
+    (scale (xyz 0.6 0.23 1))
+    (rotate (xyz 0 0 90))
   )
 )
