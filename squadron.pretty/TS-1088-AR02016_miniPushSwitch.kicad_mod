@@ -15,7 +15,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp d18be616-16b7-4983-b4fe-ebf2e421d02a)
   )
-  (fp_text user "SW?" (at 0 -1.4 unlocked) (layer "F.SilkS")
+  (fp_text user "REF**" (at 0 -1.4 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.1)) (justify bottom))
     (tstamp 9d91a042-aef4-43ad-89c0-b58eef9b820d)
   )
