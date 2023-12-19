@@ -37,4 +37,9 @@
     (thermal_bridge_angle 45) (tstamp 18cc0229-8d88-4b0a-acb3-6d8365a455ff))
   (pad "2" smd roundrect (at 2.0828 0) (size 1.35 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
     (thermal_bridge_angle 45) (tstamp 50075db9-1153-48f4-a2c5-c14475ebb583))
+  (model ":KICAD7_3DMODEL_DIR:Button_Switch_SMD.3dshapes/SW_SPST_B3U-1000P-B.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1.1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
