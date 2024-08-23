@@ -447,14 +447,6 @@
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "0c698f72-8c8a-44db-8678-25669cc9393f")
-	)
-	(pad "5" thru_hole oval
-		(at -11.943567 4.376433)
-		(size 1.7 1.7)
-		(drill 1)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
 		(uuid "1cd12df5-e39a-4bb1-9ae8-ec6496d630e6")
 	)
 	(pad "6" thru_hole oval
