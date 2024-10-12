@@ -1,0 +1,260 @@
+(footprint "LED_Cree-PLCC4_2x2mm_CW"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(locked yes)
+	(layer "F.Cu")
+	(descr "2.0mm x 2.0mm PLCC4 LED, http://www.cree.com/~/media/Files/Cree/LED-Components-and-Modules/HB/Data-Sheets/CLMVBFKA.pdf")
+	(tags "LED Cree PLCC-4")
+	(property "Reference" "D3"
+		(at -0.02 2.088 0)
+		(layer "F.SilkS")
+		(uuid "b6bdd446-b7d9-41e8-a378-629abec7f0e4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CLMVC-FKA-CLBDGL7LBB79353"
+		(at 0 2.25 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "37c4053e-ef0a-4080-b448-cc54884dfe2a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "VS.preety:LED_Cree-PLCC4_2x2mm_CW"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "64ca639e-d1fb-4539-abe1-a337a901f8de")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "250527a6-ecec-41f9-9147-b2e4624fcd4c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "57b937f5-0bf0-4562-90b0-ed874b335f19")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.45 -1.15)
+		(end 1.45 -1.15)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7b8470b5-0a6b-490a-a32e-96252b74d8b8")
+	)
+	(fp_line
+		(start -1.45 -0.55)
+		(end -1.45 -1.15)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cd2a961b-59fe-4b9e-984a-a586b2a3ae1b")
+	)
+	(fp_line
+		(start -1.45 1.15)
+		(end 1.45 1.15)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4dff16dc-6556-4516-8d6b-13ae0a79c615")
+	)
+	(fp_circle
+		(center -1.5 -0.4)
+		(end -1.45 -0.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "e81240be-9ed0-4594-87fd-0e69638d7f7d")
+	)
+	(fp_line
+		(start -1.7 -1.4)
+		(end -1.7 1.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "25789d9e-8b01-4712-9055-aa50320fad48")
+	)
+	(fp_line
+		(start -1.7 1.4)
+		(end 1.7 1.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ad5c1a0a-9991-4eae-ac91-3d3f9049b0c4")
+	)
+	(fp_line
+		(start 1.7 -1.4)
+		(end -1.7 -1.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0c45c883-a40f-4a25-b27c-d9a47b46459d")
+	)
+	(fp_line
+		(start 1.7 1.4)
+		(end 1.7 -1.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6fd7828c-9761-4907-8e0d-d89cff0ae0c3")
+	)
+	(fp_line
+		(start -1 -1)
+		(end -1 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8a6ddda5-6e8b-411f-a897-06d3309486b9")
+	)
+	(fp_line
+		(start -1 1)
+		(end 1 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c16868f9-3ef1-4f39-a778-a12289620d69")
+	)
+	(fp_line
+		(start 0 -1)
+		(end -1 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "01b7b0e6-b44b-4a3b-92b0-33501ec50fb4")
+	)
+	(fp_line
+		(start 1 -1)
+		(end -1 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d304b58b-a9b8-4d2d-a087-fb8ea51be604")
+	)
+	(fp_line
+		(start 1 1)
+		(end 1 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a27f063d-ac8b-44aa-a2bd-46f21876901f")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.8 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "52e3964b-b308-41ed-9c29-ff253b7ffa00")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "bc76e248-d064-4ff3-b4b4-f77c36d9c07e")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.8 -0.55)
+		(size 0.8 0.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "c8393a65-0ca6-4aa2-a223-81b72d89a376")
+	)
+	(pad "2" smd rect
+		(at 0.9 -0.55)
+		(size 0.8 0.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "c4e65dc0-0ba7-42f2-baa4-7a3b1f046ca0")
+	)
+	(pad "3" smd rect
+		(at 0.9 0.55)
+		(size 0.8 0.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "9e377dec-40f9-4b0b-aca2-f63c0f69039f")
+	)
+	(pad "4" smd rect
+		(at -0.8 0.55)
+		(size 0.8 0.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "b85e5d52-6878-4a5e-a7cb-b1442f22a3c4")
+	)
+	(model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_Cree-PLCC4_2x2mm_CW.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
